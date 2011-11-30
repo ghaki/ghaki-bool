@@ -11,11 +11,11 @@ Gem::Specification.new do |s|
   s.homepage = 'http://github.com/ghaki'
 
   # rubygem setup
-  s.platform = Gem::Platform::RUBY
+  s.platform                  = Gem::Platform::RUBY
   s.required_rubygems_version = '>= 1.3.6'
-  s.rubyforge_project = s.name
+  s.rubyforge_project         = s.name
 
-  # dependencies
+  # devel dependencies
   s.add_development_dependency 'rspec', '>= 2.4.0'
   s.add_development_dependency 'mocha', '>= 0.9.12'
   s.add_development_dependency 'rdoc',  '>= 3.9.4'
