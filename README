@@ -1,0 +1,23 @@
+= Ghaki Bool - Boolean helpers
+
+Ghaki Bool is a collection of boolean helper methods.
+
+== Download
+
+The latest version of Ghaki Bool can be found at
+
+* git@github.com:ghaki/ghaki-bool.git
+
+== Installation
+
+The preferred method of installing this Ghaki Bool is through its GEM file.
+
+  % [sudo] gem install ghaki-bool-1.0.0.gem
+
+== License
+
+Ghaki Bool is released under the MIT license.
+
+== Support
+
+Contact mailto:gerald@kalafut.org
